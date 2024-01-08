@@ -1,0 +1,14 @@
+C:\C#.net programs\video-11\video11-assignment-1\bin\Debug\video11-assignment-1.exe.config
+C:\C#.net programs\video-11\video11-assignment-1\bin\Debug\video11-assignment-1.exe
+C:\C#.net programs\video-11\video11-assignment-1\bin\Debug\video11-assignment-1.pdb
+C:\C#.net programs\video-11\video11-assignment-1\obj\Debug\video11-assignment-1.csproj.AssemblyReference.cache
+C:\C#.net programs\video-11\video11-assignment-1\obj\Debug\video11-assignment-1.csproj.CoreCompileInputs.cache
+C:\C#.net programs\video-11\video11-assignment-1\obj\Debug\video11-assignment-1.exe
+C:\C#.net programs\video-11\video11-assignment-1\obj\Debug\video11-assignment-1.pdb
+C:\C#.net\Class Assignments\Video-11\video11-assignment-1\bin\Debug\video11-assignment-1.exe.config
+C:\C#.net\Class Assignments\Video-11\video11-assignment-1\bin\Debug\video11-assignment-1.exe
+C:\C#.net\Class Assignments\Video-11\video11-assignment-1\bin\Debug\video11-assignment-1.pdb
+C:\C#.net\Class Assignments\Video-11\video11-assignment-1\obj\Debug\video11-assignment-1.csproj.AssemblyReference.cache
+C:\C#.net\Class Assignments\Video-11\video11-assignment-1\obj\Debug\video11-assignment-1.csproj.CoreCompileInputs.cache
+C:\C#.net\Class Assignments\Video-11\video11-assignment-1\obj\Debug\video11-assignment-1.exe
+C:\C#.net\Class Assignments\Video-11\video11-assignment-1\obj\Debug\video11-assignment-1.pdb

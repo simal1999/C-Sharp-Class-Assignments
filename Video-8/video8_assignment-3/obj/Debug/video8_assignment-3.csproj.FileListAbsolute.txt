@@ -1,0 +1,7 @@
+C:\C#.net programs\video-8\video8_assignment-3\bin\Debug\video8_assignment-3.exe.config
+C:\C#.net programs\video-8\video8_assignment-3\bin\Debug\video8_assignment-3.exe
+C:\C#.net programs\video-8\video8_assignment-3\bin\Debug\video8_assignment-3.pdb
+C:\C#.net programs\video-8\video8_assignment-3\obj\Debug\video8_assignment-3.csproj.AssemblyReference.cache
+C:\C#.net programs\video-8\video8_assignment-3\obj\Debug\video8_assignment-3.csproj.CoreCompileInputs.cache
+C:\C#.net programs\video-8\video8_assignment-3\obj\Debug\video8_assignment-3.exe
+C:\C#.net programs\video-8\video8_assignment-3\obj\Debug\video8_assignment-3.pdb

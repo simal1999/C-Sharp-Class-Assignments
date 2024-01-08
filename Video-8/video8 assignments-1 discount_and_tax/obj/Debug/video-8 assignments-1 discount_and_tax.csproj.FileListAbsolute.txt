@@ -1,0 +1,7 @@
+C:\C#.net programs\video-8\video-8 assignments-1 discount_and_tax\bin\Debug\video-8 assignments-1 discount_and_tax.exe.config
+C:\C#.net programs\video-8\video-8 assignments-1 discount_and_tax\bin\Debug\video-8 assignments-1 discount_and_tax.exe
+C:\C#.net programs\video-8\video-8 assignments-1 discount_and_tax\bin\Debug\video-8 assignments-1 discount_and_tax.pdb
+C:\C#.net programs\video-8\video-8 assignments-1 discount_and_tax\obj\Debug\video-8 assignments-1 discount_and_tax.csproj.AssemblyReference.cache
+C:\C#.net programs\video-8\video-8 assignments-1 discount_and_tax\obj\Debug\video-8 assignments-1 discount_and_tax.csproj.CoreCompileInputs.cache
+C:\C#.net programs\video-8\video-8 assignments-1 discount_and_tax\obj\Debug\video-8 assignments-1 discount_and_tax.exe
+C:\C#.net programs\video-8\video-8 assignments-1 discount_and_tax\obj\Debug\video-8 assignments-1 discount_and_tax.pdb
