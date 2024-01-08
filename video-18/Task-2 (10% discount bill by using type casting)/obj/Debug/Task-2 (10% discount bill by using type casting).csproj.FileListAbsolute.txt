@@ -1,0 +1,7 @@
+C:\C#.net\Class Assignments\video-18\Task-2 (10% discount bill by using type casting)\bin\Debug\Task-2 (10% discount bill by using type casting).exe.config
+C:\C#.net\Class Assignments\video-18\Task-2 (10% discount bill by using type casting)\bin\Debug\Task-2 (10% discount bill by using type casting).exe
+C:\C#.net\Class Assignments\video-18\Task-2 (10% discount bill by using type casting)\bin\Debug\Task-2 (10% discount bill by using type casting).pdb
+C:\C#.net\Class Assignments\video-18\Task-2 (10% discount bill by using type casting)\obj\Debug\Task-2 (10% discount bill by using type casting).csproj.AssemblyReference.cache
+C:\C#.net\Class Assignments\video-18\Task-2 (10% discount bill by using type casting)\obj\Debug\Task-2 (10% discount bill by using type casting).csproj.CoreCompileInputs.cache
+C:\C#.net\Class Assignments\video-18\Task-2 (10% discount bill by using type casting)\obj\Debug\Task-2 (10% discount bill by using type casting).exe
+C:\C#.net\Class Assignments\video-18\Task-2 (10% discount bill by using type casting)\obj\Debug\Task-2 (10% discount bill by using type casting).pdb

@@ -1,0 +1,7 @@
+C:\C#.net\Class Assignments\video-14\Task-1 (accept first name last name and location )\bin\Debug\Task-1 (accept first name last name and location ).exe.config
+C:\C#.net\Class Assignments\video-14\Task-1 (accept first name last name and location )\bin\Debug\Task-1 (accept first name last name and location ).exe
+C:\C#.net\Class Assignments\video-14\Task-1 (accept first name last name and location )\bin\Debug\Task-1 (accept first name last name and location ).pdb
+C:\C#.net\Class Assignments\video-14\Task-1 (accept first name last name and location )\obj\Debug\Task-1 (accept first name last name and location ).csproj.AssemblyReference.cache
+C:\C#.net\Class Assignments\video-14\Task-1 (accept first name last name and location )\obj\Debug\Task-1 (accept first name last name and location ).csproj.CoreCompileInputs.cache
+C:\C#.net\Class Assignments\video-14\Task-1 (accept first name last name and location )\obj\Debug\Task-1 (accept first name last name and location ).exe
+C:\C#.net\Class Assignments\video-14\Task-1 (accept first name last name and location )\obj\Debug\Task-1 (accept first name last name and location ).pdb
