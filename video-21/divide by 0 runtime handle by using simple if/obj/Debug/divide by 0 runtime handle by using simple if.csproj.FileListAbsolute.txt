@@ -1,7 +1,0 @@
-C:\C#.net\Class Assignments\video-21\divide by 0 runtime handle by using simple if\bin\Debug\divide by 0 runtime handle by using simple if.exe.config
-C:\C#.net\Class Assignments\video-21\divide by 0 runtime handle by using simple if\bin\Debug\divide by 0 runtime handle by using simple if.exe
-C:\C#.net\Class Assignments\video-21\divide by 0 runtime handle by using simple if\bin\Debug\divide by 0 runtime handle by using simple if.pdb
-C:\C#.net\Class Assignments\video-21\divide by 0 runtime handle by using simple if\obj\Debug\divide by 0 runtime handle by using simple if.csproj.AssemblyReference.cache
-C:\C#.net\Class Assignments\video-21\divide by 0 runtime handle by using simple if\obj\Debug\divide by 0 runtime handle by using simple if.csproj.CoreCompileInputs.cache
-C:\C#.net\Class Assignments\video-21\divide by 0 runtime handle by using simple if\obj\Debug\divide by 0 runtime handle by using simple if.exe
-C:\C#.net\Class Assignments\video-21\divide by 0 runtime handle by using simple if\obj\Debug\divide by 0 runtime handle by using simple if.pdb
