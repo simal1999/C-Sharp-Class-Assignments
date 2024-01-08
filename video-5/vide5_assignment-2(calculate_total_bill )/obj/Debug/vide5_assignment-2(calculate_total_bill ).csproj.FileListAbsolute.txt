@@ -1,0 +1,7 @@
+C:\C#.net programs\video-5\vide5_assignment-2(calculate_total_bill )\obj\Debug\vide5_assignment-2(calculate_total_bill ).csproj.AssemblyReference.cache
+C:\C#.net programs\video-5\vide5_assignment-2(calculate_total_bill )\obj\Debug\vide5_assignment-2(calculate_total_bill ).csproj.CoreCompileInputs.cache
+C:\C#.net programs\video-5\vide5_assignment-2(calculate_total_bill )\bin\Debug\vide5_assignment-2(calculate_total_bill ).exe.config
+C:\C#.net programs\video-5\vide5_assignment-2(calculate_total_bill )\bin\Debug\vide5_assignment-2(calculate_total_bill ).exe
+C:\C#.net programs\video-5\vide5_assignment-2(calculate_total_bill )\bin\Debug\vide5_assignment-2(calculate_total_bill ).pdb
+C:\C#.net programs\video-5\vide5_assignment-2(calculate_total_bill )\obj\Debug\vide5_assignment-2(calculate_total_bill ).exe
+C:\C#.net programs\video-5\vide5_assignment-2(calculate_total_bill )\obj\Debug\vide5_assignment-2(calculate_total_bill ).pdb

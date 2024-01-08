@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vide5_assignment-1(print_total_marks_and_avg_marks )", "vide5_assignment-1(print_total_marks_and_avg_marks ).csproj", "{41FDF657-480E-4439-950E-4F17B4D19A94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41FDF657-480E-4439-950E-4F17B4D19A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41FDF657-480E-4439-950E-4F17B4D19A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41FDF657-480E-4439-950E-4F17B4D19A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41FDF657-480E-4439-950E-4F17B4D19A94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {477E7E86-7D9B-430F-AB32-FF625458558D}
+	EndGlobalSection
+EndGlobal

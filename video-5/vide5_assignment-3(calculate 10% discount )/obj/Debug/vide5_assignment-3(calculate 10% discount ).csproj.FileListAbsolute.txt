@@ -1,0 +1,7 @@
+C:\C#.net programs\video-5\vide5_assignment-3(calculate 10% discount )\bin\Debug\vide5_assignment-3(calculate 10% discount ).exe.config
+C:\C#.net programs\video-5\vide5_assignment-3(calculate 10% discount )\bin\Debug\vide5_assignment-3(calculate 10% discount ).exe
+C:\C#.net programs\video-5\vide5_assignment-3(calculate 10% discount )\bin\Debug\vide5_assignment-3(calculate 10% discount ).pdb
+C:\C#.net programs\video-5\vide5_assignment-3(calculate 10% discount )\obj\Debug\vide5_assignment-3(calculate 10% discount ).csproj.AssemblyReference.cache
+C:\C#.net programs\video-5\vide5_assignment-3(calculate 10% discount )\obj\Debug\vide5_assignment-3(calculate 10% discount ).csproj.CoreCompileInputs.cache
+C:\C#.net programs\video-5\vide5_assignment-3(calculate 10% discount )\obj\Debug\vide5_assignment-3(calculate 10% discount ).exe
+C:\C#.net programs\video-5\vide5_assignment-3(calculate 10% discount )\obj\Debug\vide5_assignment-3(calculate 10% discount ).pdb

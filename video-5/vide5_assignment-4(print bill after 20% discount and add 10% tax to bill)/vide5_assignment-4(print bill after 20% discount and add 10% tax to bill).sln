@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vide5_assignment-4(print bill after 20% discount and add 10% tax to bill)", "vide5_assignment-4(print bill after 20% discount and add 10% tax to bill).csproj", "{FF2DC413-54FE-4B30-956E-3CD919EC8EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF2DC413-54FE-4B30-956E-3CD919EC8EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF2DC413-54FE-4B30-956E-3CD919EC8EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF2DC413-54FE-4B30-956E-3CD919EC8EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF2DC413-54FE-4B30-956E-3CD919EC8EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56D60685-67FC-4EA7-8A0D-1D4C43E6360E}
+	EndGlobalSection
+EndGlobal

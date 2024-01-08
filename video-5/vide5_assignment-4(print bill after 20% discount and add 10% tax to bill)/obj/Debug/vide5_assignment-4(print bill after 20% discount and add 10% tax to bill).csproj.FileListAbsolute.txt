@@ -1,0 +1,7 @@
+C:\C#.net programs\video-5\vide5_assignment-4(print bill after 20% discount and add 10% tax to bill)\bin\Debug\vide5_assignment-4(print bill after 20% discount and add 10% tax to bill).exe.config
+C:\C#.net programs\video-5\vide5_assignment-4(print bill after 20% discount and add 10% tax to bill)\bin\Debug\vide5_assignment-4(print bill after 20% discount and add 10% tax to bill).exe
+C:\C#.net programs\video-5\vide5_assignment-4(print bill after 20% discount and add 10% tax to bill)\bin\Debug\vide5_assignment-4(print bill after 20% discount and add 10% tax to bill).pdb
+C:\C#.net programs\video-5\vide5_assignment-4(print bill after 20% discount and add 10% tax to bill)\obj\Debug\vide5_assignment-4(print bill after 20% discount and add 10% tax to bill).csproj.AssemblyReference.cache
+C:\C#.net programs\video-5\vide5_assignment-4(print bill after 20% discount and add 10% tax to bill)\obj\Debug\vide5_assignment-4(print bill after 20% discount and add 10% tax to bill).csproj.CoreCompileInputs.cache
+C:\C#.net programs\video-5\vide5_assignment-4(print bill after 20% discount and add 10% tax to bill)\obj\Debug\vide5_assignment-4(print bill after 20% discount and add 10% tax to bill).exe
+C:\C#.net programs\video-5\vide5_assignment-4(print bill after 20% discount and add 10% tax to bill)\obj\Debug\vide5_assignment-4(print bill after 20% discount and add 10% tax to bill).pdb
