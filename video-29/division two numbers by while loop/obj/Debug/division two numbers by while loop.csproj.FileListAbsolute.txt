@@ -1,0 +1,7 @@
+C:\C#.net\Class videos\video-29\division two numbers by while loop\bin\Debug\division two numbers by while loop.exe.config
+C:\C#.net\Class videos\video-29\division two numbers by while loop\bin\Debug\division two numbers by while loop.exe
+C:\C#.net\Class videos\video-29\division two numbers by while loop\bin\Debug\division two numbers by while loop.pdb
+C:\C#.net\Class videos\video-29\division two numbers by while loop\obj\Debug\division two numbers by while loop.csproj.AssemblyReference.cache
+C:\C#.net\Class videos\video-29\division two numbers by while loop\obj\Debug\division two numbers by while loop.csproj.CoreCompileInputs.cache
+C:\C#.net\Class videos\video-29\division two numbers by while loop\obj\Debug\division two numbers by while loop.exe
+C:\C#.net\Class videos\video-29\division two numbers by while loop\obj\Debug\division two numbers by while loop.pdb

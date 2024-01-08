@@ -1,0 +1,7 @@
+C:\C#.net\Class Assignments\video-30\divide 2 numbers by using do while\bin\Debug\divide 2 numbers by using do while.exe.config
+C:\C#.net\Class Assignments\video-30\divide 2 numbers by using do while\bin\Debug\divide 2 numbers by using do while.exe
+C:\C#.net\Class Assignments\video-30\divide 2 numbers by using do while\bin\Debug\divide 2 numbers by using do while.pdb
+C:\C#.net\Class Assignments\video-30\divide 2 numbers by using do while\obj\Debug\divide 2 numbers by using do while.csproj.AssemblyReference.cache
+C:\C#.net\Class Assignments\video-30\divide 2 numbers by using do while\obj\Debug\divide 2 numbers by using do while.csproj.CoreCompileInputs.cache
+C:\C#.net\Class Assignments\video-30\divide 2 numbers by using do while\obj\Debug\divide 2 numbers by using do while.exe
+C:\C#.net\Class Assignments\video-30\divide 2 numbers by using do while\obj\Debug\divide 2 numbers by using do while.pdb

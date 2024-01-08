@@ -1,0 +1,7 @@
+C:\C#.net\Class Assignments\video-30\printing number pattern\bin\Debug\printing number pattern.exe.config
+C:\C#.net\Class Assignments\video-30\printing number pattern\bin\Debug\printing number pattern.exe
+C:\C#.net\Class Assignments\video-30\printing number pattern\bin\Debug\printing number pattern.pdb
+C:\C#.net\Class Assignments\video-30\printing number pattern\obj\Debug\printing number pattern.csproj.AssemblyReference.cache
+C:\C#.net\Class Assignments\video-30\printing number pattern\obj\Debug\printing number pattern.csproj.CoreCompileInputs.cache
+C:\C#.net\Class Assignments\video-30\printing number pattern\obj\Debug\printing number pattern.exe
+C:\C#.net\Class Assignments\video-30\printing number pattern\obj\Debug\printing number pattern.pdb

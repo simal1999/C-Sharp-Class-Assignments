@@ -1,0 +1,7 @@
+C:\C#.net\Class Assignments\video-24\student status pass or fail\bin\Debug\student status pass or fail.exe.config
+C:\C#.net\Class Assignments\video-24\student status pass or fail\bin\Debug\student status pass or fail.exe
+C:\C#.net\Class Assignments\video-24\student status pass or fail\bin\Debug\student status pass or fail.pdb
+C:\C#.net\Class Assignments\video-24\student status pass or fail\obj\Debug\student status pass or fail.csproj.AssemblyReference.cache
+C:\C#.net\Class Assignments\video-24\student status pass or fail\obj\Debug\student status pass or fail.csproj.CoreCompileInputs.cache
+C:\C#.net\Class Assignments\video-24\student status pass or fail\obj\Debug\student status pass or fail.exe
+C:\C#.net\Class Assignments\video-24\student status pass or fail\obj\Debug\student status pass or fail.pdb

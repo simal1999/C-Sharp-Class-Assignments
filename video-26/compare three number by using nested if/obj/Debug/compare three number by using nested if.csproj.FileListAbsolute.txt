@@ -1,0 +1,7 @@
+C:\C#.net\Class Assignments\video-26\compare three number by using nested if\bin\Debug\compare three number by using nested if.exe.config
+C:\C#.net\Class Assignments\video-26\compare three number by using nested if\bin\Debug\compare three number by using nested if.exe
+C:\C#.net\Class Assignments\video-26\compare three number by using nested if\bin\Debug\compare three number by using nested if.pdb
+C:\C#.net\Class Assignments\video-26\compare three number by using nested if\obj\Debug\compare three number by using nested if.csproj.AssemblyReference.cache
+C:\C#.net\Class Assignments\video-26\compare three number by using nested if\obj\Debug\compare three number by using nested if.csproj.CoreCompileInputs.cache
+C:\C#.net\Class Assignments\video-26\compare three number by using nested if\obj\Debug\compare three number by using nested if.exe
+C:\C#.net\Class Assignments\video-26\compare three number by using nested if\obj\Debug\compare three number by using nested if.pdb
