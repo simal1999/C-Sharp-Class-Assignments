@@ -1,0 +1,7 @@
+C:\C#.net\Class Assignments\video-32\assignment on arrays\bin\Debug\assignment on arrays.exe.config
+C:\C#.net\Class Assignments\video-32\assignment on arrays\bin\Debug\assignment on arrays.exe
+C:\C#.net\Class Assignments\video-32\assignment on arrays\bin\Debug\assignment on arrays.pdb
+C:\C#.net\Class Assignments\video-32\assignment on arrays\obj\Debug\assignment on arrays.csproj.AssemblyReference.cache
+C:\C#.net\Class Assignments\video-32\assignment on arrays\obj\Debug\assignment on arrays.csproj.CoreCompileInputs.cache
+C:\C#.net\Class Assignments\video-32\assignment on arrays\obj\Debug\assignment on arrays.exe
+C:\C#.net\Class Assignments\video-32\assignment on arrays\obj\Debug\assignment on arrays.pdb

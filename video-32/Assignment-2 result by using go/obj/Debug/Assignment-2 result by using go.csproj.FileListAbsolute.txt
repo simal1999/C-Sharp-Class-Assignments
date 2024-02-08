@@ -1,0 +1,7 @@
+C:\C#.net\Class Assignments\video-32\Assignment-2 result by using go\bin\Debug\Assignment-2 result by using go.exe.config
+C:\C#.net\Class Assignments\video-32\Assignment-2 result by using go\bin\Debug\Assignment-2 result by using go.exe
+C:\C#.net\Class Assignments\video-32\Assignment-2 result by using go\bin\Debug\Assignment-2 result by using go.pdb
+C:\C#.net\Class Assignments\video-32\Assignment-2 result by using go\obj\Debug\Assignment-2 result by using go.csproj.AssemblyReference.cache
+C:\C#.net\Class Assignments\video-32\Assignment-2 result by using go\obj\Debug\Assignment-2 result by using go.csproj.CoreCompileInputs.cache
+C:\C#.net\Class Assignments\video-32\Assignment-2 result by using go\obj\Debug\Assignment-2 result by using go.exe
+C:\C#.net\Class Assignments\video-32\Assignment-2 result by using go\obj\Debug\Assignment-2 result by using go.pdb

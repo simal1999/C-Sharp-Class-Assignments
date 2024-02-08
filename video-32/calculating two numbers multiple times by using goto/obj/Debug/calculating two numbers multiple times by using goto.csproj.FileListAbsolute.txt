@@ -1,0 +1,7 @@
+C:\C#.net\Class Assignments\video-32\calculating two numbers multiple times by using goto\bin\Debug\calculating two numbers multiple times by using goto.exe.config
+C:\C#.net\Class Assignments\video-32\calculating two numbers multiple times by using goto\bin\Debug\calculating two numbers multiple times by using goto.exe
+C:\C#.net\Class Assignments\video-32\calculating two numbers multiple times by using goto\bin\Debug\calculating two numbers multiple times by using goto.pdb
+C:\C#.net\Class Assignments\video-32\calculating two numbers multiple times by using goto\obj\Debug\calculating two numbers multiple times by using goto.csproj.AssemblyReference.cache
+C:\C#.net\Class Assignments\video-32\calculating two numbers multiple times by using goto\obj\Debug\calculating two numbers multiple times by using goto.csproj.CoreCompileInputs.cache
+C:\C#.net\Class Assignments\video-32\calculating two numbers multiple times by using goto\obj\Debug\calculating two numbers multiple times by using goto.exe
+C:\C#.net\Class Assignments\video-32\calculating two numbers multiple times by using goto\obj\Debug\calculating two numbers multiple times by using goto.pdb
