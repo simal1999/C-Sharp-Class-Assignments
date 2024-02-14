@@ -1,0 +1,7 @@
+C:\C#.net\Class Assignments\video-33\multi dimension to print 1 to 15 numbers with differentout puts\bin\Debug\multi dimension to print 1 to 15 numbers with differentout puts.exe.config
+C:\C#.net\Class Assignments\video-33\multi dimension to print 1 to 15 numbers with differentout puts\bin\Debug\multi dimension to print 1 to 15 numbers with differentout puts.exe
+C:\C#.net\Class Assignments\video-33\multi dimension to print 1 to 15 numbers with differentout puts\bin\Debug\multi dimension to print 1 to 15 numbers with differentout puts.pdb
+C:\C#.net\Class Assignments\video-33\multi dimension to print 1 to 15 numbers with differentout puts\obj\Debug\multi dimension to print 1 to 15 numbers with differentout puts.csproj.AssemblyReference.cache
+C:\C#.net\Class Assignments\video-33\multi dimension to print 1 to 15 numbers with differentout puts\obj\Debug\multi dimension to print 1 to 15 numbers with differentout puts.csproj.CoreCompileInputs.cache
+C:\C#.net\Class Assignments\video-33\multi dimension to print 1 to 15 numbers with differentout puts\obj\Debug\multi dimension to print 1 to 15 numbers with differentout puts.exe
+C:\C#.net\Class Assignments\video-33\multi dimension to print 1 to 15 numbers with differentout puts\obj\Debug\multi dimension to print 1 to 15 numbers with differentout puts.pdb

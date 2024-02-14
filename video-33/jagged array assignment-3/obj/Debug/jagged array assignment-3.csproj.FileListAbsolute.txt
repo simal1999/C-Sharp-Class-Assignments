@@ -1,0 +1,7 @@
+C:\C#.net\Class Assignments\video-33\jagged array assignment-3\bin\Debug\jagged array assignment-3.exe.config
+C:\C#.net\Class Assignments\video-33\jagged array assignment-3\bin\Debug\jagged array assignment-3.exe
+C:\C#.net\Class Assignments\video-33\jagged array assignment-3\bin\Debug\jagged array assignment-3.pdb
+C:\C#.net\Class Assignments\video-33\jagged array assignment-3\obj\Debug\jagged array assignment-3.csproj.AssemblyReference.cache
+C:\C#.net\Class Assignments\video-33\jagged array assignment-3\obj\Debug\jagged array assignment-3.csproj.CoreCompileInputs.cache
+C:\C#.net\Class Assignments\video-33\jagged array assignment-3\obj\Debug\jagged array assignment-3.exe
+C:\C#.net\Class Assignments\video-33\jagged array assignment-3\obj\Debug\jagged array assignment-3.pdb

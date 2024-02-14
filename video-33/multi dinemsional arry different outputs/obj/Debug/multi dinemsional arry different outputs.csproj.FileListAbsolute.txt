@@ -1,0 +1,7 @@
+C:\C#.net\Class Assignments\video-33\multi dinemsional arry different outputs\bin\Debug\multi dinemsional arry different outputs.exe.config
+C:\C#.net\Class Assignments\video-33\multi dinemsional arry different outputs\bin\Debug\multi dinemsional arry different outputs.exe
+C:\C#.net\Class Assignments\video-33\multi dinemsional arry different outputs\bin\Debug\multi dinemsional arry different outputs.pdb
+C:\C#.net\Class Assignments\video-33\multi dinemsional arry different outputs\obj\Debug\multi dinemsional arry different outputs.csproj.AssemblyReference.cache
+C:\C#.net\Class Assignments\video-33\multi dinemsional arry different outputs\obj\Debug\multi dinemsional arry different outputs.csproj.CoreCompileInputs.cache
+C:\C#.net\Class Assignments\video-33\multi dinemsional arry different outputs\obj\Debug\multi dinemsional arry different outputs.exe
+C:\C#.net\Class Assignments\video-33\multi dinemsional arry different outputs\obj\Debug\multi dinemsional arry different outputs.pdb
