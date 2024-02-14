@@ -1,0 +1,7 @@
+C:\C#.net\Class Assignments\video-34\adding 2 one dimensional array\bin\Debug\adding 2 one dimensional array.exe.config
+C:\C#.net\Class Assignments\video-34\adding 2 one dimensional array\bin\Debug\adding 2 one dimensional array.exe
+C:\C#.net\Class Assignments\video-34\adding 2 one dimensional array\bin\Debug\adding 2 one dimensional array.pdb
+C:\C#.net\Class Assignments\video-34\adding 2 one dimensional array\obj\Debug\adding 2 one dimensional array.csproj.AssemblyReference.cache
+C:\C#.net\Class Assignments\video-34\adding 2 one dimensional array\obj\Debug\adding 2 one dimensional array.csproj.CoreCompileInputs.cache
+C:\C#.net\Class Assignments\video-34\adding 2 one dimensional array\obj\Debug\adding 2 one dimensional array.exe
+C:\C#.net\Class Assignments\video-34\adding 2 one dimensional array\obj\Debug\adding 2 one dimensional array.pdb

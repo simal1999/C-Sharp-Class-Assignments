@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q-3 Sum of cubes of given number", "Q-3 Sum of cubes of given number.csproj", "{4E04D751-1073-4815-A76A-FF7F616D4407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E04D751-1073-4815-A76A-FF7F616D4407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E04D751-1073-4815-A76A-FF7F616D4407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E04D751-1073-4815-A76A-FF7F616D4407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E04D751-1073-4815-A76A-FF7F616D4407}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {695EE96D-1467-4B34-ACDA-D2B644FD0A9C}
+	EndGlobalSection
+EndGlobal

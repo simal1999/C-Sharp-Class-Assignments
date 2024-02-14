@@ -1,0 +1,7 @@
+C:\C#.net\Class Assignments\video-36\Q-2 Sum of squares of an given umber\bin\Debug\Q-2 Sum of squares of an given umber.exe.config
+C:\C#.net\Class Assignments\video-36\Q-2 Sum of squares of an given umber\bin\Debug\Q-2 Sum of squares of an given umber.exe
+C:\C#.net\Class Assignments\video-36\Q-2 Sum of squares of an given umber\bin\Debug\Q-2 Sum of squares of an given umber.pdb
+C:\C#.net\Class Assignments\video-36\Q-2 Sum of squares of an given umber\obj\Debug\Q-2 Sum of squares of an given umber.csproj.AssemblyReference.cache
+C:\C#.net\Class Assignments\video-36\Q-2 Sum of squares of an given umber\obj\Debug\Q-2 Sum of squares of an given umber.csproj.CoreCompileInputs.cache
+C:\C#.net\Class Assignments\video-36\Q-2 Sum of squares of an given umber\obj\Debug\Q-2 Sum of squares of an given umber.exe
+C:\C#.net\Class Assignments\video-36\Q-2 Sum of squares of an given umber\obj\Debug\Q-2 Sum of squares of an given umber.pdb

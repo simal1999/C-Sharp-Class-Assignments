@@ -1,0 +1,7 @@
+C:\C#.net\Class Assignments\video-36\Q-1 Prime numbers with in range\bin\Debug\Q-1 Prime numbers with in range.exe.config
+C:\C#.net\Class Assignments\video-36\Q-1 Prime numbers with in range\bin\Debug\Q-1 Prime numbers with in range.exe
+C:\C#.net\Class Assignments\video-36\Q-1 Prime numbers with in range\bin\Debug\Q-1 Prime numbers with in range.pdb
+C:\C#.net\Class Assignments\video-36\Q-1 Prime numbers with in range\obj\Debug\Q-1 Prime numbers with in range.csproj.AssemblyReference.cache
+C:\C#.net\Class Assignments\video-36\Q-1 Prime numbers with in range\obj\Debug\Q-1 Prime numbers with in range.csproj.CoreCompileInputs.cache
+C:\C#.net\Class Assignments\video-36\Q-1 Prime numbers with in range\obj\Debug\Q-1 Prime numbers with in range.exe
+C:\C#.net\Class Assignments\video-36\Q-1 Prime numbers with in range\obj\Debug\Q-1 Prime numbers with in range.pdb

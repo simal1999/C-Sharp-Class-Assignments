@@ -1,0 +1,7 @@
+C:\C#.net\Class Assignments\video-36\Q-3 Sum of cubes of given number\bin\Debug\Q-3 Sum of cubes of given number.exe.config
+C:\C#.net\Class Assignments\video-36\Q-3 Sum of cubes of given number\bin\Debug\Q-3 Sum of cubes of given number.exe
+C:\C#.net\Class Assignments\video-36\Q-3 Sum of cubes of given number\bin\Debug\Q-3 Sum of cubes of given number.pdb
+C:\C#.net\Class Assignments\video-36\Q-3 Sum of cubes of given number\obj\Debug\Q-3 Sum of cubes of given number.csproj.AssemblyReference.cache
+C:\C#.net\Class Assignments\video-36\Q-3 Sum of cubes of given number\obj\Debug\Q-3 Sum of cubes of given number.csproj.CoreCompileInputs.cache
+C:\C#.net\Class Assignments\video-36\Q-3 Sum of cubes of given number\obj\Debug\Q-3 Sum of cubes of given number.exe
+C:\C#.net\Class Assignments\video-36\Q-3 Sum of cubes of given number\obj\Debug\Q-3 Sum of cubes of given number.pdb
